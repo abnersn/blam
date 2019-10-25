@@ -1,6 +1,6 @@
 - git:
     local-name: geometry_utils
-    uri: https://github.com/erik-nelson/geometry_utils.git
+    uri: https://github.com/abnersn/geometry_utils.git
     version: master
 - git:
     local-name: parameter_utils
@@ -24,7 +24,7 @@
     version: master
 - git:
     local-name: point_cloud_odometry
-    uri: https://github.com/erik-nelson/point_cloud_odometry.git
+    uri: https://github.com/abnersn/point_cloud_odometry.git
     version: master
 - git:
     local-name: point_cloud_visualizer
