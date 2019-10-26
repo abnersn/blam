@@ -16,7 +16,7 @@
     version: master
 - git:
     local-name: point_cloud_localization
-    uri: https://github.com/erik-nelson/point_cloud_localization.git
+    uri: https://github.com/abnersn/point_cloud_localization.git
     version: master
 - git:
     local-name: point_cloud_mapper
